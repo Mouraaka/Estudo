@@ -1,0 +1,21 @@
+.conteiner-main-form{
+    background-color: aquamarine;
+    padding: 30px;
+    width: 25%;
+    height: 50%;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+}
+
+.conteiner-main-form-titulo{
+    text-align: center;
+}
+
+.A{
+    width: 100%;
+    border: none;
+    margin: 10px;
+}
+
